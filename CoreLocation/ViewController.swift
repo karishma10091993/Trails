@@ -14,6 +14,7 @@ class ViewController: UIViewController{
     override func viewDidLoad() {
         print("Welcome to Git")
         print("secondStep")
+        print("third")
     }
     
 }
